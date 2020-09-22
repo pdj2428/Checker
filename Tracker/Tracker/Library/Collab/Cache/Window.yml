@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Animations/MainManu/UI/BloodTest.controller
+    - Assets/Animations/MainManu/UI/CCTV (1).controller
+    - Assets/Animations/MainManu/UI/CCTV (1).controller.meta
+    - Assets/Animations/MainManu/UI/CCTVAfterCheck1.anim
+    - Assets/Animations/MainManu/UI/CCTVAfterCheck2.anim
+    - Assets/Animations/MainManu/UI/CCTVAfterCheck2.anim.meta
+    - Assets/Animations/MainManu/UI/CCTVAfterCheck3.anim
+    - Assets/Animations/MainManu/UI/CCTVAfterCheck3.anim.meta
+    - Assets/Animations/MainManu/UI/CCTVAfterCheck4.anim
+    - Assets/Animations/MainManu/UI/CCTVAfterCheck4.anim.meta
+    - Assets/Animations/MainManu/UI/CCTVCheck.anim
+    - Assets/Animations/MainManu/UI/CCTVCheck.anim.meta
+    - Assets/Animations/MainManu/UI/CCTVCheck1.anim
+    - Assets/Animations/MainManu/UI/CCTVCheck1.anim.meta
+    - Assets/Animations/MainManu/UI/CCTVCheck2.anim
+    - Assets/Animations/MainManu/UI/CCTVCheck2.anim.meta
+    - Assets/Animations/MainManu/UI/CCTVCheck3.anim
+    - Assets/Animations/MainManu/UI/CCTVCheck3.anim.meta
+    - Assets/Animations/MainManu/UI/CCTVCheck4.anim
+    - Assets/Animations/MainManu/UI/CCTVCheck4.anim.meta
+    - Assets/Animations/MainManu/UI/CCTVs.controller
+    - Assets/Animations/MainManu/UI/CCTVs.controller.meta
+    - Assets/Animations/MainManu/UI/Fade.controller
+    - Assets/Animations/MainManu/UI/InGameFadeIn.anim
+    - Assets/Animations/MainManu/UI/NewsPaperNextDay.anim
+    - Assets/Animations/MainManu/UI/NewsPaper_Fade.controller
+    - Assets/Animations/MainManu/UI/Paper (1).controller
+    - Assets/Animations/MainManu/UI/Vital.controller
+    - Assets/Animations/MainManu/UI/X-Ray.controller
+    - Assets/Resources/CCTV1.png
+    - Assets/Resources/CCTV1.png.meta
+    - Assets/Resources/CCTV2.png
+    - Assets/Resources/CCTV2.png.meta
+    - Assets/Resources/CCTV3.png
+    - Assets/Resources/CCTV3.png.meta
+    - Assets/Resources/CCTV4.png
+    - Assets/Resources/CCTV4.png.meta
+    - Assets/Resources/Ending1_.png
+    - Assets/Resources/Ending1_.png.meta
+    - Assets/Resources/Ending2_.png
+    - Assets/Resources/Ending2_.png.meta
+    - Assets/Resources/Ending3_.png
+    - Assets/Resources/Ending3_.png.meta
+    - Assets/Resources/Setting.png
+    - Assets/Resources/Setting.png.meta
+    - Assets/Scenes/Ending.unity
+    - Assets/Scenes/InGame.unity
+    - Assets/Scenes/MainScene.unity
+    - Assets/Scenes/Setting.unity
+    - Assets/Scenes/Setting.unity.meta
+    - Assets/Scripts/Ending/Ending.cs
+    - Assets/Scripts/Ending/Ending.cs.meta
+    - Assets/Scripts/InGame/Interacture/Character/BloodTest.meta
+    - Assets/Scripts/InGame/Interacture/Character/BloodTest/BloodTestSyringe.cs
+    - Assets/Scripts/InGame/Interacture/Character/BloodTest/BloodTestSyringe.cs.meta
+    - Assets/Scripts/InGame/Interacture/Character/BloodTest/BloodTestTableSD.cs
+    - Assets/Scripts/InGame/Interacture/Character/BloodTest/BloodTestTableSD.cs.meta
+    - Assets/Scripts/InGame/Interacture/Character/CharacterAnimation.cs
+    - Assets/Scripts/InGame/Interacture/GameManager.cs
+    - Assets/Scripts/InGame/Interacture/NextDayButton.cs
+    - Assets/Scripts/InGame/Interacture/PassedHuman.cs
+    - Assets/Scripts/InGame/UI/CCTV/ClickCCTV.cs
+    - Assets/Scripts/InGame/UI/Directive/Directive.cs
+    - Assets/Scripts/InGame/UI/NewsPaper/ChangePaper.cs
+    - Assets/Scripts/InGame/UI/Window/Choice.cs
+    - Assets/Scripts/InGame/UI/X-Ray/XRayInspection.cs
+    - Assets/Scripts/MainMenu/UI/EndingMenu.cs
+    - Assets/Scripts/MainMenu/UI/EndingMenu.cs.meta
+    - Assets/Scripts/MainMenu/UI/FadeScript.cs
+    - Assets/Scripts/MainMenu/UI/GameExit.cs
+    - Assets/Scripts/MainMenu/UI/GameExit.cs.meta
+    - Assets/Scripts/MainMenu/UI/TextClick.cs
+    - Assets/Scripts/MainMenu/UI/TextClick.cs.meta
+    - Assets/Scripts/Setting/Soundmanager.cs
+    - Assets/Sounds/DeadSound.mp3
+    - Assets/Sounds/DeadSound.mp3.meta
+    - Assets/Sounds/Juice WRLD - Wishing Well (Official Music Video).mp3
+    - Assets/Sounds/Juice WRLD - Wishing Well (Official Music Video).mp3.meta
+    - ProjectSettings/EditorBuildSettings.asset
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
